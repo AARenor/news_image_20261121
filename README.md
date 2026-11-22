@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261121/AARenor/news_image_20261121/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 [![reward](https://make.fun/badge/news-image-20261121/AARenor/news_image_20261121/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
-A 1024×1024 news front page for Saturday 21 November 2026: 48 verified stories from 7 regions and 30 fields, with three illustrated leads, twelve picture cards, 33 numbered one-liners, a UTC timeline and a date-check box under a huge dated masthead. Built from the day's Wikipedia current-events page and wire reporting, with every drawing written by hand as a flat SVG scene and the page rendered offline with Playwright.
+A 1024×1024 news front page for Saturday 21 November 2026: 39 verified stories from 7 regions and 24 fields, with three illustrated leads, twelve picture cards, 24 numbered one-liners, a UTC timeline, region bands and a date-check box under a huge dated masthead. Built from the day's Wikipedia current-events page and wire reporting, with every drawing written by hand as a flat SVG scene and the page rendered offline with Playwright.
 
 ## Run it
 
